@@ -1,0 +1,7 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:local="clr-namespace:bookreader1.pages"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia">
+    <Paragraph>
+        XX век (двадцатый век, 20 век, двадцатое столетие) — отрезок времени, продолжительностью 100 лет, с 1 января 1901 года по 31 декабря 2000 года. Последний век второго тысячелетия.
+    </Paragraph>
+</FlowDocument>

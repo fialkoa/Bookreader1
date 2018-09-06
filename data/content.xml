@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item id ="100" name ="History" icon ="imgs/history.png">
+    <item id ="101" name="XVIII век" icon ="imgs/2.png"/>
+    <item id ="102" name="XIX век" icon ="imgs/2.png"/>
+    <item id ="103" name="XX век" icon ="imgs/2.png"/>
+  </item>
+</root>
